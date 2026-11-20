@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1C1C3c0I_DLXLVtf3D3g103GJhPWNRkrV">
+	<name>NVIS IDA/VUE LERI</name>
+	<atom:link rel="app" href="https://www.google.com/earth/about/versions/#earth-pro" title="Google Earth Pro 7.3.6.10441"></atom:link>
+	<Schema name="__managed_schema" id="__managed_schema">
+		<SimpleField type="int" name="07613FC1E53B93CE6CA2">
+			<displayName>Precisión (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1F891068503B93C51A21">
+			<displayName>Precisión (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="12357A0DD93B939B9D39">
+			<displayName>Precisión (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="179E7FBF313B9395BF5D">
+			<displayName>Precisión (m)</displayName>
+		</SimpleField>
+		<SimpleField type="int" name="1CFFCD8A173B9391FCDE">
+			<displayName>Precisión (m)</displayName>
+		</SimpleField>
+	</Schema>
+	<gx:CascadingStyle kml:id="__managed_style_4AD15F9A3B3B9894927C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_5E8803C2083B9894927C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_639B6B8C753B989429E4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_7B91E46F133B989429E4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_01C21985F73B989429E6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_7B91E46F133B989429E4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="sh_airports1">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_airports0">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_red-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_red-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_airports">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_airports</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_airports</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_red-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="__managed_style_3B12B2B3FF3B9894927C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4AD15F9A3B3B9894927C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5E8803C2083B9894927C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_red-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_airports1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_airports1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_airports0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_red-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="__managed_style_350FD3F7F83B989429E4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_400B7EDEB23B989429E4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5AEE3FBC783B989429E4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_01C21985F73B989429E6">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="sn_airports1">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_airports0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_airports0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_airports1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_airports">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_airports">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_1A040F5A903B989429E4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="sh_red-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="__managed_style_0876028D063B989429E4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1A040F5A903B989429E4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E0CE255513B989429E4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_red-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_red-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_red-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_red-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_5AEE3FBC783B989429E4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.9996</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="sh_airports0">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/shapes/airports.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_400B7EDEB23B989429E4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2.6664</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Style id="sn_red-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pushpin/red-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<gx:CascadingStyle kml:id="__managed_style_2E0CE255513B989429E4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<width>1.5</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="0C169461CB3B938DAA37">
+		<name>MERCAGRANADA</name>
+		<gx:mid>/g/1tgppcrp</gx:mid>
+		<gx:fid>0xd71fb60da3f2a5d:0xebf643b4a0007358</gx:fid>
+		<LookAt>
+			<longitude>-3.6612515</longitude>
+			<latitude>37.2031052</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>821.0024163752569</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.6612515,37.2031052,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED9EE39E23B938FEA5F">
+		<name>EMBALSE DEL CUBILLAS</name>
+		<gx:mid>/m/0czddl6</gx:mid>
+		<gx:fid>0xd6e019a5a9e3f9d:0xcf2fb47aa2f81872</gx:fid>
+		<LookAt>
+			<longitude>-3.6713387</longitude>
+			<latitude>37.27815075</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4242.766385138028</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.6711972,37.2765577,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0989E57DCA3B93905916">
+		<name>EMBALSE DE COLOMERA</name>
+		<gx:mid>/m/0czcnd0</gx:mid>
+		<gx:fid>0xd6e08796be87911:0x9e3cf5aba10fc06e</gx:fid>
+		<LookAt>
+			<longitude>-3.709489199999999</longitude>
+			<latitude>37.4144268</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9232.105782296036</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.7193936,37.40316139999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="090B6B78D43B9391FCDE">
+		<name>Casas Invernadero</name>
+		<LookAt>
+			<longitude>-3.72092822685436</longitude>
+			<latitude>37.46439076139227</latitude>
+			<altitude>886.2777944034115</altitude>
+			<heading>28.85197113536453</heading>
+			<tilt>59.87341113047534</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2687.066426972451</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_350FD3F7F83B989429E4</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1CFFCD8A173B9391FCDE">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-3.722019522150069,37.46241785043425,892.8695336929007</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C35A9ACE43B9390B9A6">
+		<name>MONTILLANA</name>
+		<gx:mid>/m/0g9sw51</gx:mid>
+		<gx:fid>0xd6e0bfb5316ae6f:0xd97eb6e09ab5ad24</gx:fid>
+		<LookAt>
+			<longitude>-3.672367299999999</longitude>
+			<latitude>37.5023254</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1794.270399661002</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.6724655,37.5014581,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F67290213B9394D942">
+		<name>CAMPILLO DE ARENAS</name>
+		<gx:mid>/g/11cp1mh28p</gx:mid>
+		<gx:fid>0xd6e0ceed85d633d:0xdd72827d05c4f2e3</gx:fid>
+		<LookAt>
+			<longitude>-3.6345266</longitude>
+			<latitude>37.5554923</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1792.764904043033</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.6357134,37.5549229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FA497EA493B9395BF5D">
+		<name>Canteras/ Carchelejo</name>
+		<LookAt>
+			<longitude>-3.610390314400559</longitude>
+			<latitude>37.63924255202008</latitude>
+			<altitude>665.0124474511043</altitude>
+			<heading>-3.929387826528259</heading>
+			<tilt>59.92008967168148</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3812.899402952171</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_350FD3F7F83B989429E4</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="179E7FBF313B9395BF5D">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-3.608720869920412,37.6353633674915,721.0228549733572</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05D11806FC3B93975288">
+		<name>LA GUARDIA DE JAÉN</name>
+		<gx:mid>/m/02z7dc7</gx:mid>
+		<gx:fid>0xd6e777ad44d60bf:0xf05217007987e6b8</gx:fid>
+		<LookAt>
+			<longitude>-3.69295215</longitude>
+			<latitude>37.7429711</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>814.5194093257601</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.693387199999999,37.7424654,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04E249C8EC3B9398EB3E">
+		<name>JAÉN</name>
+		<gx:mid>/m/0h2sf</gx:mid>
+		<gx:fid>0xd6dd713cb5302c7:0x9cfb2c858b405702</gx:fid>
+		<LookAt>
+			<longitude>-3.796865</longitude>
+			<latitude>37.78009435</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9186.846628097977</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.7849699,37.779552,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00917C5C103B939F552C">
+		<name>MENGÍBAR</name>
+		<gx:mid>/m/02z7dk3</gx:mid>
+		<gx:fid>0xd6c2b9767745f89:0x7516126704fbe3c5</gx:fid>
+		<LookAt>
+			<longitude>-3.808227</longitude>
+			<latitude>37.97043545</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4191.651617483346</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.8082965,37.9712748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0361036E483B939EAEF3">
+		<name>BAILÉN</name>
+		<gx:mid>/m/07cxjw</gx:mid>
+		<gx:fid>0xd6c27d19e4db627:0xd1036a4b1dc407f4</gx:fid>
+		<LookAt>
+			<longitude>-3.7779716</longitude>
+			<latitude>38.09522895</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4182.376153807482</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.7765276,38.0951601,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0514DA6EA13B93A657F7">
+		<name>LA CAROLINA</name>
+		<gx:mid>/m/02z7d6s</gx:mid>
+		<gx:fid>0xd6ea28e1839e3cf:0x4e2fd70836448a01</gx:fid>
+		<LookAt>
+			<longitude>-3.612219650000001</longitude>
+			<latitude>38.27576395</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4168.924949060483</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.6141819,38.2742645,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057ECC30C13B93A72717">
+		<name>ALMURADIEL</name>
+		<gx:mid>/m/0gdyyx</gx:mid>
+		<gx:fid>0xd6eb6ab7e21be3b:0x4b039b82d0c3a0b4</gx:fid>
+		<LookAt>
+			<longitude>-3.49804975</longitude>
+			<latitude>38.5117362</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1765.434879479812</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.4965553,38.5130775,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03B423DAA63B93A7E44A">
+		<name>EMBALSE DE LA FRESNEDA</name>
+		<gx:mid>/g/11xg0jvps</gx:mid>
+		<gx:fid>0xd6eac4c1969d021:0x5a9227409bbc9ec5</gx:fid>
+		<LookAt>
+			<longitude>-3.62549485</longitude>
+			<latitude>38.5402984</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9091.559719856194</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.6179809,38.543501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C494CF193B93AA2E00">
+		<name>CALZADA DE CALATRAVA</name>
+		<gx:mid>/m/0gdz76</gx:mid>
+		<gx:fid>0xd6bfdba0314e7c1:0x374b513c0cd4bff0</gx:fid>
+		<LookAt>
+			<longitude>-3.7734433</longitude>
+			<latitude>38.70254285</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4136.974829800419</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_red-pushpin0</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.7714464,38.6997514,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00EA5908573B939D6CC8">
+		<name>VALENZUELA DE CALATRAVA</name>
+		<gx:mid>/m/0ghxyz</gx:mid>
+		<gx:fid>0xd6be18f8b416e0f:0x6515406c64cfc7e3</gx:fid>
+		<LookAt>
+			<longitude>-3.773732550000001</longitude>
+			<latitude>38.85246344999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>800.9743587778177</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.7727167,38.8525648,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03D5697FF23B939B9D39">
+		<name>Almagro</name>
+		<LookAt>
+			<longitude>-3.748259546521628</longitude>
+			<latitude>38.94979618229134</latitude>
+			<altitude>626.038334561442</altitude>
+			<heading>-4.059929008872642</heading>
+			<tilt>0.1099213104424577</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11115.86540046846</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_airports1</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="12357A0DD93B939B9D39">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-3.741255101906167,38.95205374029632,623.3597926627144</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026E251FB13B93AC88BA">
+		<name>BOLAÑOS DE CALATRAVA</name>
+		<gx:mid>/m/0gdz43</gx:mid>
+		<gx:fid>0xd695e75a3c7f98f:0xbabb8a40a0fc2919</gx:fid>
+		<LookAt>
+			<longitude>-3.66379145</longitude>
+			<latitude>38.90648945</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4121.632247939138</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.664859,38.9068623,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="053A4146583B93BD3E6C">
+		<name>MANZANARES</name>
+		<gx:mid>/g/11bc66crh_</gx:mid>
+		<gx:fid>0xd69145d058dc6b5:0xa7c690fe3b6168cf</gx:fid>
+		<LookAt>
+			<longitude>-3.37123485</longitude>
+			<latitude>38.99970374999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4114.604033785672</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.3716443,39.0042841,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007694584B3B93C13DC5">
+		<name>TOMELLOSO</name>
+		<gx:mid>/g/11bc6fm3jp</gx:mid>
+		<gx:fid>0xd68fc7f386143f5:0x8bf123079a74891d</gx:fid>
+		<LookAt>
+			<longitude>-3.0190542</longitude>
+			<latitude>39.16421079999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9012.159590175102</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.0214475,39.1583745,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="006C36AF2F3B93C06302">
+		<name>VILLARROBLEDO</name>
+		<gx:mid>/m/0dmx6r</gx:mid>
+		<gx:fid>0xd6887c11c01517d:0x687969209a7d7084</gx:fid>
+		<LookAt>
+			<longitude>-2.6018559</longitude>
+			<latitude>39.2673548</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>8998.930124423434</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-2.6015635,39.2683154,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FD20DCE63B93C21DD1">
+		<name>LA RODA</name>
+		<gx:mid>/g/11bc5wzzvt</gx:mid>
+		<gx:fid>0xd6636104d510011:0x8099850a4eaf7cbe</gx:fid>
+		<LookAt>
+			<longitude>-2.1570617</longitude>
+			<latitude>39.2060165</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4099.013296093801</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-2.1568941,39.2081737,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EFC1733173B93C51A21">
+		<name>Laguna</name>
+		<LookAt>
+			<longitude>-2.016862117029833</longitude>
+			<latitude>39.02252606195839</latitude>
+			<altitude>689.0186919541559</altitude>
+			<heading>5.701029030005314e-08</heading>
+			<tilt>0.1041468309657408</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>6591.768592572771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_red-pushpin1</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="1F891068503B93C51A21">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-2.025637325809604,39.0261806146071,686.4289718899843</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="055F7280F23B93B45642">
+		<name>AEROPUERTO DE ALBACETE (ABC)</name>
+		<gx:mid>/m/03mbld1</gx:mid>
+		<gx:fid>0xd665fd3b6ab79d5:0xd3f5151ec2b112b2</gx:fid>
+		<LookAt>
+			<longitude>-1.880496</longitude>
+			<latitude>38.94537849999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>799.8266726472878</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_airports</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.880496,38.9453785,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="078C9BE6833B93C6772B">
+		<name>POZO CAÑADA</name>
+		<gx:mid>/m/0gdy3z</gx:mid>
+		<gx:fid>0xd66858cad8872b3:0xa3465c069071ecd3</gx:fid>
+		<LookAt>
+			<longitude>-1.7342232</longitude>
+			<latitude>38.80184765000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1757.049980579533</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_red-pushpin1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.7322065,38.8029833,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="014A03DA8E3B93C6941D">
+		<name>TOBARRA</name>
+		<gx:mid>/m/07xq8x</gx:mid>
+		<gx:fid>0xd64288ea60040d3:0xd69f047de6aca5c6</gx:fid>
+		<LookAt>
+			<longitude>-1.6903505</longitude>
+			<latitude>38.59295915</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4145.198853608405</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.6930787,38.5909581,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D8E6E628F3B93C6ABAD">
+		<name>HELLÍN</name>
+		<gx:mid>/m/09clyv</gx:mid>
+		<gx:fid>0xd642f8567043199:0xf6f3ad1061cb0f76</gx:fid>
+		<LookAt>
+			<longitude>-1.6987815</longitude>
+			<latitude>38.5113395</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9095.218969875585</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.6983239,38.5081949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05C207AA843B93CA737E">
+		<name>EMBALSE DE CAMARILLAS</name>
+		<gx:mid>/g/1tdknkmj</gx:mid>
+		<gx:fid>0xd64399fedc0c9a3:0x3e591d5bb5be97f9</gx:fid>
+		<LookAt>
+			<longitude>-1.63856</longitude>
+			<latitude>38.3691193</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>18226.31237721997</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.6347878,38.3605308,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A889025B83B93C94DBE">
+		<name>CIEZA</name>
+		<gx:mid>/m/09p2qh</gx:mid>
+		<gx:fid>0xd646c3ec4809c59:0x7b095695e0114ec1</gx:fid>
+		<LookAt>
+			<longitude>-1.42020565</longitude>
+			<latitude>38.24128625</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4171.496767337193</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.4217274,38.2420912,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="033E13C13F3B93C971C6">
+		<name>ARCHENA</name>
+		<gx:mid>/m/03cn4wt</gx:mid>
+		<gx:fid>0xd647a3e78e55b85:0x6dbd706b5c515aaf</gx:fid>
+		<LookAt>
+			<longitude>-1.303666</longitude>
+			<latitude>38.1171961</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4180.741497109894</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.3011431,38.1167735,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00BC4B25FF3B93CCE276">
+		<name>CAMPOS DEL RIO</name>
+		<gx:mid>/m/012ds354</gx:mid>
+		<gx:fid>0xd6463541c790873:0x402af6ed722e970</gx:fid>
+		<LookAt>
+			<longitude>-1.3531098</longitude>
+			<latitude>38.0400294</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1778.976025275047</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_red-pushpin</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-1.3529523,38.0408439,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EF878A2C53B93CE6CA1">
+		<name>ALCANTARILLA</name>
+		<LookAt>
+			<longitude>-1.232297890850255</longitude>
+			<latitude>37.95526672937452</latitude>
+			<altitude>72.82195589855544</altitude>
+			<heading>339.8801450076271</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2258.861391325481</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#msn_airports0</styleUrl>
+		<ExtendedData>
+			<SchemaData schemaUrl="#__managed_schema">
+				<SimpleData name="07613FC1E53B93CE6CA2">0</SimpleData>
+			</SchemaData>
+		</ExtendedData>
+		<Point>
+			<extrude>1</extrude>
+			<coordinates>-1.231834005991529,37.95382233996593,65.32371572531741</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01BAE9EF5F3B93DDC181">
+		<name>LEGA-LERI</name>
+		<LookAt>
+			<longitude>-1.231820465864649</longitude>
+			<latitude>37.95386058197531</latitude>
+			<altitude>65.0330414808285</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1556.722348474141</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_639B6B8C753B989429E4</styleUrl>
+		<LineString>
+			<coordinates>
+				-3.661321040195541,37.20317882215892,0 -3.671257167393099,37.27663539809313,0 -3.719402964172024,37.40326255403831,0 -3.722041453983059,37.46244534535706,0 -3.672458784736087,37.50147799880416,0 -3.635714249967603,37.55495594954998,0 -3.608756214637255,37.63539211661644,0 -3.693405664999025,37.7424703702746,0 -3.784950098961875,37.77961265783789,0 -3.808312837400502,37.97130474633107,0 -3.776522441062728,38.09524479336704,0 -3.614180802244102,38.27435198846161,0 -3.496655586952067,38.51306825669278,0 -3.617783048034509,38.54337298901489,0 -3.77166379762635,38.70012020618505,0 -3.772736781581416,38.85264645637911,0 -3.741274041443655,38.95207469568793,0 -3.664900525660864,38.90684879449446,0 -3.371681161723987,39.004233615183,0 -3.021520742155394,39.15836235893682,0 -2.601478557509114,39.26843057895422,0 -2.156927306763252,39.20819135070963,0 -2.025626699046844,39.02637285751074,0 -1.880485313305739,38.94540893691592,0 -1.732324657603367,38.803069349557,0 -1.69312493726931,38.59097579026463,0 -1.698319677737145,38.50823730324292,0 -1.634669289466911,38.36061933623252,0 -1.421772248831509,38.24216770508926,0 -1.301122649490404,38.11680175367212,0 -1.352978168136754,38.04090272440235,0 -1.2318518649764,37.95382556673134,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="0761EC52463B93A1313E">
+		<name>EMBALSE DEL JÁNDULA</name>
+		<gx:mid>/g/11c1qcgpyc</gx:mid>
+		<gx:fid>0xd6c17e7a2394cf1:0x1182d8049dd52b85</gx:fid>
+		<LookAt>
+			<longitude>-3.9444951</longitude>
+			<latitude>38.2903497</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>36492.26672633582</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0876028D063B989429E4</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-3.9342953,38.2587298,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AED3F2F033B98949277">
+		<name>Marcador sin título</name>
+		<LookAt>
+			<longitude>-1.391221218713418</longitude>
+			<latitude>37.88408716276229</latitude>
+			<altitude>307.6824891392115</altitude>
+			<heading>0.000794345421198966</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00056574484367</gx:fovy>
+			<range>44001.9358931249</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3B12B2B3FF3B9894927C</styleUrl>
+		<Point>
+			<coordinates>-1.391228991510504,37.88971849791889,274.7535371766987</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026A906AAD3B9894A86F">
+		<name>Marcador sin título</name>
+		<LookAt>
+			<longitude>-1.53952462526578</longitude>
+			<latitude>37.73549768379099</latitude>
+			<altitude>265.5275146485673</altitude>
+			<heading>0.0007942288713602913</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00056574484367</gx:fovy>
+			<range>44044.0931650484</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3B12B2B3FF3B9894927C</styleUrl>
+		<Point>
+			<coordinates>-1.498555666269289,37.76943416140654,260.084619224249</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A58528A343B9894C4E8">
+		<name>LORCA</name>
+		<LookAt>
+			<longitude>-1.689163333637189</longitude>
+			<latitude>37.67477564081967</latitude>
+			<altitude>320.4248587232462</altitude>
+			<heading>0.0007940549325108682</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00056574484367</gx:fovy>
+			<range>3861.684726609384</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3B12B2B3FF3B9894927C</styleUrl>
+		<Point>
+			<coordinates>-1.696704666991528,37.6744793241192,347.324254569676</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00777B4A393B989CFF34">
+		<name>pulpi</name>
+		<LookAt>
+			<longitude>-1.794971622692885</longitude>
+			<latitude>37.47106520060795</latitude>
+			<altitude>367.6550076609646</altitude>
+			<heading>-153.4218008927674</heading>
+			<tilt>56.26344321016682</tilt>
+			<gx:fovy>30.00056574484368</gx:fovy>
+			<range>22711.97955986951</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3B12B2B3FF3B9894927C</styleUrl>
+		<Point>
+			<coordinates>-1.750021588962122,37.40908580151071,188.6562746136878</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
